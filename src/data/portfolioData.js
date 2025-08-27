@@ -12,7 +12,7 @@ export const portfolioData = {
     github: 'https://github.com/afzal44',
     twitter: 'https://twitter.com/afjal_ahamad',
     wcblog: 'https://wcblog.in/author/afjal-ahamad1994gmail-com/',
-    profileImage: '/images/profile.png' // Ensure this path is correct
+    profileImage: 'images/profile.png' // Ensure this path is correct
   },
 
   // About Section
